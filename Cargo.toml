@@ -1,0 +1,9 @@
+[package]
+name = "BEC-proof"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bellman = "0.9"  # or arkworks-rs
+rand = "0.8"
+sha2 = "0.9"
